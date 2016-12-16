@@ -7,7 +7,7 @@ Original files pulled from https://github.com/coryhouse/pluralsight-redux-starte
 1. Create a PluralSight app using React/Redux, Babel to transpile ES6 to ES5 and Webpack for hot reloading
 2. App should show Home, Courses, and About pages
 3. Courses page shows courses from asynchronous api calls with ability to add or update courses
-4. Need to add testing
+4. Use Mocha for testing in memory with JSDOM with expect assertion library and Enzyme for helper functions
 
 # To run App locally
 1. Execute command "npm install"
